@@ -1,1 +1,1 @@
-# test-ext-changes-git-2
+# test-ext-changes-gi
